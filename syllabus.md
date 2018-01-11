@@ -1,4 +1,4 @@
-# CS 1501: Engineering Web Solutions
+# Syllabus for CS 1501 Engineering Web Solutions
 
 ### 0. Basics
 
@@ -41,28 +41,19 @@ However, here are some related readings, if you're interested:
 If you need to contact someone, email one or both of us first. If your issue isn't resolved or if you don't feel comfortable talking to us, only then email Professor Basit. Be sure you tag your emails with CS1501.
 
 **Disha Jain** *dj9am@virginia.edu*
-
-2nd year CS major, Entrepreneurship and Math minors
-
-Interests include natural language processing, web/mobile application development, and human-centered design
-
-Office hours: TBD
+ * 2nd year CS major, Entrepreneurship and Math minors
+ * Interests include natural language processing, web/mobile application development, and human-centered design
+ * Office hours: TBD
 
 **David Zhao** *dz6hu@virginia.edu*
-
-2nd year CS/Statistics major
-
-Interests include machine learning, web app development, and psychology
-
-Office hours: TBD
+ * 2nd year CS/Statistics major
+ * Interests include machine learning, web app development, and psychology
+ * Office hours: TBD
 
 **Dr. Nada Basit** *basit@virginia.edu*
-
-CS Professor
-
-Research includes machine learning, bioinformatics, data mining, pattern recognition, biometrics, and computer science education
-
-Office: Rice 405
+ * CS Professor
+ * Research includes machine learning, bioinformatics, data mining, pattern recognition, biometrics, and computer science education
+ * Office: Rice 405
 
 ### 4. Course Topics
 
